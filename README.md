@@ -12,7 +12,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir iPhone 
 
 ## Ekran Görüntüsü
 
-![Hesap Makinesi Ekran Görüntüsü](https://pasteboard.co/3QdZhv4Qk2rZ.png)
+![Hesap Makinesi Ekran Görüntüsü](https://gcdnb.pbrd.co/images/3QdZhv4Qk2rZ.png?o=1)
 
 ## Kurulum
 
